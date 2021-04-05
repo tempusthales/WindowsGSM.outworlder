@@ -9,6 +9,4 @@
 
 ## Installation
 
-* Download the latest [release](https://github.com/tempusthales/WGSM-Plugins/blob/main/WindowsGSM.outworlder)
-* Move outworlder.cs folder to plugins folder or import `WindowsGSM.outworlder.zip` to **WindowsGSM**
-* Click [RELOAD PLUGINS] button or restart **WindowsGSM**
+**Coming soon!**
